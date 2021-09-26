@@ -35,7 +35,7 @@ function App() {
                 </div>
                 <div>
                    
-                <img className="logo" src="/images/logo3.png" alt="logo"/>
+                <img className="logo" src="../images/logo3.png" alt="logo"/>
                     </div>
                 <div className="header-links">
                     <Link to="/cart/2?qty=1">Giỏ hàng</Link>
