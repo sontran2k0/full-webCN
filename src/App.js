@@ -35,7 +35,10 @@ function App() {
                 </div>
                 <div>
                    
+
                 <img className="logo" src="https://github.com/sontran2k0/trasua-reactjs.git/images/logo3.png" alt="logo"/>
+
+
                     </div>
                 <div className="header-links">
                     <Link to="/cart/2?qty=1">Giỏ hàng</Link>
