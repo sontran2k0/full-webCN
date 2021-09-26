@@ -36,7 +36,7 @@ function App() {
                 <div>
                    
 
-                <img className="logo" src="https://github.com/sontran2k0/trasua-reactjs.git/images/logo3.png" alt="logo"/>
+                <img className="logo" src="./images/logo3.png" alt="logo"/>
 
 
                     </div>
