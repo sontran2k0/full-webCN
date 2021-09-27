@@ -36,6 +36,9 @@ body{
 }
 .banner{
   margin-top: 1rem;
+    padding: auto;
+  width: 100%;
+  max-height:75rem;
 }
 .brand a{
   color: #fff;
